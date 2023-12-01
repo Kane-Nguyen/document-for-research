@@ -1,7 +1,7 @@
 # Document for ( title )
 ### Table of contents
-1 Purpose
-2 Introduction our test
+- 1 Purpose
+- 2 Introduction our test
 
 ## 1 Purpose 
    The purpose of efficiently managing resources and facilitating easy access to documents and research is multifaceted. 
